@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [Nexa](https://github.com/farandead/Nexa)
 
-- 👨‍💻 All of my projects are available at [https://farandead.github.io/farazafar.github.io/](https://farandead.github.io/farazafar.github.io/)
+- 👨‍💻 All of my projects are available at [https://faranzz.com/](https://faranzz.com/)
 
 - 💬 Ask me about **Cyber, Machine learning**
 
